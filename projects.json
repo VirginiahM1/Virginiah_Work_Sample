@@ -7,11 +7,11 @@
     "description": "A practical Excel project demonstrating customer record management, data organisation, data cleaning and the preparation of structured customer information.",
     "previews": [
       {
-        "image": "Images/Previewsproject-01.png",
+        "image": "Images/Previews/Project-01.png",
         "caption": "Customer Records"
       },
       {
-        "image": "Images/Previewsproject_01_.jpg",
+        "image": "Images/Previews/Project_01_.jpg",
         "caption": "Original Data & Cleaning — Before and After"
       }
     ],
@@ -34,7 +34,7 @@
     "description": "An Excel-based inventory management workbook designed to organise stock records and support inventory monitoring.",
     "previews": [
       {
-        "image": "Images/Previewsproject-02.jpg",
+        "image": "Images/Previews/Project-02.jpg",
         "caption": "Inventory Management Workbook"
       }
     ],
@@ -57,7 +57,7 @@
     "description": "A spreadsheet project for recording sales and expenses, organising financial information and reviewing totals through summaries and charts.",
     "previews": [
       {
-        "image": "Images/Previewsproject-03.jpg",
+        "image": "Images/Previews/Project-03.jpg",
         "caption": "Sales & Expense Tracker"
       }
     ],
@@ -80,7 +80,7 @@
     "description": "An Excel workbook demonstrating employee attendance recording, payroll tracking and organised staff information.",
     "previews": [
       {
-        "image": "Images/Previewsproject-04.jpg",
+        "image": "Images/Previews/Project-04.jpg",
         "caption": "Attendance & Payroll Tracker"
       }
     ],
@@ -103,7 +103,7 @@
     "description": "An Excel dashboard project demonstrating sales data analysis, organised reporting and visual presentation of business information.",
     "previews": [
       {
-        "image": "Images/Previewsproject-05.jpg",
+        "image": "Images/Previews/Project-05.jpg",
         "caption": "Sales Analysis Dashboard"
       }
     ],
@@ -126,7 +126,7 @@
     "description": "A professionally structured business letter demonstrating formal business communication, document formatting and presentation.",
     "previews": [
       {
-        "image": "Images/Previewsproject-06.jpg",
+        "image": "Images/Previews/Project-06.jpg",
         "caption": "Business Letter Sample"
       }
     ],
@@ -154,7 +154,7 @@
     "description": "A structured meeting minutes document demonstrating professional record-keeping, organisation of discussions and documentation of meeting outcomes.",
     "previews": [
       {
-        "image": "Images/Previewsproject-07.jpg",
+        "image": "Images/Previews/Project-07.jpg",
         "caption": "Meeting Minutes Sample"
       }
     ],
@@ -182,7 +182,7 @@
     "description": "A professionally organised business report demonstrating structured writing, information presentation and document formatting.",
     "previews": [
       {
-        "image": "Images/Previewsproject-08.jpg",
+        "image": "Images/Previews/Project-08.jpg",
         "caption": "Business Report Sample"
       }
     ],
@@ -210,7 +210,7 @@
     "description": "A professional invoice template demonstrating structured billing information, clear financial presentation and business document design.",
     "previews": [
       {
-        "image": "Images/Previewsproject-09.jpg",
+        "image": "Images/Previews/Project-09.jpg",
         "caption": "Invoice Sample"
       }
     ],
@@ -238,7 +238,7 @@
     "description": "A sample website development proposal prepared by Zoe Tech Solutions for Bright Solutions Ltd, demonstrating project planning, service presentation, timelines and budgeting.",
     "previews": [
       {
-        "image": "Images/Previewsproject-10.jpg",
+        "image": "Images/Previews/Project-10.jpg",
         "caption": "Business Proposal Sample"
       }
     ],
@@ -266,7 +266,7 @@
     "description": "An Excel-based project management workbook featuring task tracking, project summaries, formulas and conditional formatting.",
     "previews": [
       {
-        "image": "Images/Previewsproject-11.jpg",
+        "image": "Images/Previews/Project-11.jpg",
         "caption": "Project Plan & Task Tracker"
       }
     ],
@@ -289,11 +289,11 @@
     "description": "A collection of sample CV and cover letter documents demonstrating professional presentation, structured career information and application writing.",
     "previews": [
       {
-        "image": "Images/PreviewsProject-12_CV.jpg",
+        "image": "Images/Previews/Project-12_CV.jpg",
         "caption": "CV Sample"
       },
       {
-        "image": "Images/PreviewsProject-12.jpg",
+        "image": "Images/Previews/Project-12.jpg",
         "caption": "Cover Letter Sample"
       }
     ],
