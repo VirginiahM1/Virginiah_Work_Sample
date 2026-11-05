@@ -1,0 +1,331 @@
+
+[
+  {
+    "id": 1,
+    "title": "Customer Database & Data Cleaning",
+    "category": "Data Management",
+    "description": "A practical Excel project demonstrating customer record management, data organisation, data cleaning and the preparation of structured customer information.",
+    "previews": [
+      {
+        "image": "Images/Previewsproject-01.png",
+        "caption": "Customer Records"
+      },
+      {
+        "image": "Images/Previewsproject_01_.jpg",
+        "caption": "Original Data & Cleaning — Before and After"
+      }
+    ],
+    "files": [
+      {
+        "name": "Excel Workbook",
+        "downloads": [
+          {
+            "label": "Download Excel Workbook",
+            "path": "Projects/Customer_Database/Customer_Database_Sample.xlsx"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Inventory Management",
+    "category": "Spreadsheet Management",
+    "description": "An Excel-based inventory management workbook designed to organise stock records and support inventory monitoring.",
+    "previews": [
+      {
+        "image": "Images/Previewsproject-02.jpg",
+        "caption": "Inventory Management Workbook"
+      }
+    ],
+    "files": [
+      {
+        "name": "Excel Workbook",
+        "downloads": [
+          {
+            "label": "Download Excel Workbook",
+            "path": "Projects/02_Inventory_Management/INVENTORY MANAGEMENT.xlsx"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Sales & Expense Tracker",
+    "category": "Financial Data Management",
+    "description": "A spreadsheet project for recording sales and expenses, organising financial information and reviewing totals through summaries and charts.",
+    "previews": [
+      {
+        "image": "Images/Previewsproject-03.jpg",
+        "caption": "Sales & Expense Tracker"
+      }
+    ],
+    "files": [
+      {
+        "name": "Excel Workbook",
+        "downloads": [
+          {
+            "label": "Download Excel Workbook",
+            "path": "Projects/03_Sales_Expense_Tracker/SALES AND EXPENSE TRACKER.xlsx"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Employee Attendance & Payroll Tracker",
+    "category": "Administrative Data Management",
+    "description": "An Excel workbook demonstrating employee attendance recording, payroll tracking and organised staff information.",
+    "previews": [
+      {
+        "image": "Images/Previewsproject-04.jpg",
+        "caption": "Attendance & Payroll Tracker"
+      }
+    ],
+    "files": [
+      {
+        "name": "Excel Workbook",
+        "downloads": [
+          {
+            "label": "Download Excel Workbook",
+            "path": "Projects/04_Attendance_Payroll/EMPLOYEE ATTENDANCE & PAYROLL TRACKER.xlsx"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Advanced Sales Analysis Dashboard",
+    "category": "Data Analysis & Reporting",
+    "description": "An Excel dashboard project demonstrating sales data analysis, organised reporting and visual presentation of business information.",
+    "previews": [
+      {
+        "image": "Images/Previewsproject-05.jpg",
+        "caption": "Sales Analysis Dashboard"
+      }
+    ],
+    "files": [
+      {
+        "name": "Excel Workbook",
+        "downloads": [
+          {
+            "label": "Download Excel Workbook",
+            "path": "Projects/05_Sales_Analysis_Dashboard/SALES ANALYSIS DASHBOARD (2).xlsx"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Professional Business Letter",
+    "category": "Business Documentation",
+    "description": "A professionally structured business letter demonstrating formal business communication, document formatting and presentation.",
+    "previews": [
+      {
+        "image": "Images/Previewsproject-06.jpg",
+        "caption": "Business Letter Sample"
+      }
+    ],
+    "files": [
+      {
+        "name": "Business Letter",
+        "viewPath": "Projects/06_Business_Letter/Business Letter.pdf",
+        "downloads": [
+          {
+            "label": "Download Word Document",
+            "path": "Projects/06_Business_Letter/Business Letter.docx"
+          },
+          {
+            "label": "Download PDF",
+            "path": "Projects/06_Business_Letter/Business Letter.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Professional Meeting Minutes",
+    "category": "Business Documentation",
+    "description": "A structured meeting minutes document demonstrating professional record-keeping, organisation of discussions and documentation of meeting outcomes.",
+    "previews": [
+      {
+        "image": "Images/Previewsproject-07.jpg",
+        "caption": "Meeting Minutes Sample"
+      }
+    ],
+    "files": [
+      {
+        "name": "Meeting Minutes",
+        "viewPath": "Projects/07_Meeting_Minutes/Meeting Minutes.pdf",
+        "downloads": [
+          {
+            "label": "Download Word Document",
+            "path": "Projects/07_Meeting_Minutes/Meeting Minutes.docx"
+          },
+          {
+            "label": "Download PDF",
+            "path": "Projects/07_Meeting_Minutes/Meeting Minutes.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Professional Business Report",
+    "category": "Business Documentation",
+    "description": "A professionally organised business report demonstrating structured writing, information presentation and document formatting.",
+    "previews": [
+      {
+        "image": "Images/Previewsproject-08.jpg",
+        "caption": "Business Report Sample"
+      }
+    ],
+    "files": [
+      {
+        "name": "Business Report",
+        "viewPath": "Projects/08_Business_Report/Business Report.pdf",
+        "downloads": [
+          {
+            "label": "Download Word Document",
+            "path": "Projects/08_Business_Report/Business Report.docx"
+          },
+          {
+            "label": "Download PDF",
+            "path": "Projects/08_Business_Report/Business Report.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Professional Invoice Template",
+    "category": "Business Documentation",
+    "description": "A professional invoice template demonstrating structured billing information, clear financial presentation and business document design.",
+    "previews": [
+      {
+        "image": "Images/Previewsproject-09.jpg",
+        "caption": "Invoice Sample"
+      }
+    ],
+    "files": [
+      {
+        "name": "Business Invoice",
+        "viewPath": "Projects/09_Professional_Invoice/BUSINESS INVOICE.pdf",
+        "downloads": [
+          {
+            "label": "Download Word Document",
+            "path": "Projects/09_Professional_Invoice/BUSINESS INVOICE.docx"
+          },
+          {
+            "label": "Download PDF",
+            "path": "Projects/09_Professional_Invoice/BUSINESS INVOICE.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Professional Business Proposal",
+    "category": "Business Documentation",
+    "description": "A sample website development proposal prepared by Zoe Tech Solutions for Bright Solutions Ltd, demonstrating project planning, service presentation, timelines and budgeting.",
+    "previews": [
+      {
+        "image": "Images/Previewsproject-10.jpg",
+        "caption": "Business Proposal Sample"
+      }
+    ],
+    "files": [
+      {
+        "name": "Business Proposal",
+        "viewPath": "Projects/10_Professional_Business_Proposal/BUSINESS PROPOSAL.pdf",
+        "downloads": [
+          {
+            "label": "Download Word Document",
+            "path": "Projects/10_Professional_Business_Proposal/BUSINESS PROPOSAL.docx"
+          },
+          {
+            "label": "Download PDF",
+            "path": "Projects/10_Professional_Business_Proposal/BUSINESS PROPOSAL.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Project Plan & Task Tracker",
+    "category": "Project Management",
+    "description": "An Excel-based project management workbook featuring task tracking, project summaries, formulas and conditional formatting.",
+    "previews": [
+      {
+        "image": "Images/Previewsproject-11.jpg",
+        "caption": "Project Plan & Task Tracker"
+      }
+    ],
+    "files": [
+      {
+        "name": "Excel Workbook",
+        "downloads": [
+          {
+            "label": "Download Excel Workbook",
+            "path": "Projects/11_Project_Plan_and_Task_Tracker/PROJECT PLAN AND TASK TRACKER (2).xlsx"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Professional CV & Cover Letter Samples",
+    "category": "Professional Documentation",
+    "description": "A collection of sample CV and cover letter documents demonstrating professional presentation, structured career information and application writing.",
+    "previews": [
+      {
+        "image": "Images/PreviewsProject-12_CV.jpg",
+        "caption": "CV Sample"
+      },
+      {
+        "image": "Images/PreviewsProject-12.jpg",
+        "caption": "Cover Letter Sample"
+      }
+    ],
+    "files": [
+      {
+        "name": "CV Sample",
+        "viewPath": "Projects/12_CV_and_Cover_Letter_Samples/CV Writing.pdf",
+        "downloads": [
+          {
+            "label": "Download Word Document",
+            "path": "Projects/12_CV_and_Cover_Letter_Samples/CV Writing.docx"
+          },
+          {
+            "label": "Download PDF",
+            "path": "Projects/12_CV_and_Cover_Letter_Samples/CV Writing.pdf"
+          }
+        ]
+      },
+      {
+        "name": "Cover Letter Sample",
+        "viewPath": "Projects/12_CV_and_Cover_Letter_Samples/Cover letter Sample.pdf",
+        "downloads": [
+          {
+            "label": "Download Word Document",
+            "path": "Projects/12_CV_and_Cover_Letter_Samples/Cover letter Sample.docx"
+          },
+          {
+            "label": "Download PDF",
+            "path": "Projects/12_CV_and_Cover_Letter_Samples/Cover letter Sample.pdf"
+          }
+        ]
+      }
+    ]
+  }
+]
