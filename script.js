@@ -160,10 +160,6 @@ function displayProjects(projects) {
     actions.appendChild(downloadLink);
 });
 
-            fileGroup.appendChild(actions);
-            filesContainer.appendChild(fileGroup);
-        });
-
         /* Assemble project card */
 
         content.appendChild(previewContainer);
