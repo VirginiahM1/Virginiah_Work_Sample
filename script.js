@@ -142,19 +142,23 @@ function displayProjects(projects) {
                 actions.appendChild(viewLink);
             }
 
-            /* Download options */
+           /* Download options */
 
-            (file.downloads || []).forEach(download => {
+(file.downloads || []).forEach(download => {
 
-                const downloadLink = document.createElement("a");
+    const downloadLink = document.createElement("a");
 
-                downloadLink.href = download.path;
-                downloadLink.download = "";
-                downloadLink.className = "file-link download-link";
-                downloadLink.textContent = download.label;
+    downloadLink.href = download.path;
 
-                actions.appendChild(downloadLink);
-            });
+    const fileName = download.path.split("/").pop();
+
+    downloadLink.setAttribute("download", fileName);
+
+    downloadLink.className = "file-link download-link";
+    downloadLink.textContent = download.label;
+
+    actions.appendChild(downloadLink);
+});
 
             fileGroup.appendChild(actions);
             filesContainer.appendChild(fileGroup);
