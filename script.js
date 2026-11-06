@@ -142,22 +142,51 @@ function displayProjects(projects) {
                 actions.appendChild(viewLink);
             }
 
-           /* Download options */
+          /* Download options */
 
 (file.downloads || []).forEach(download => {
 
     const downloadLink = document.createElement("a");
 
     downloadLink.href = download.path;
-
-    const fileName = download.path.split("/").pop();
-
-    downloadLink.setAttribute("download", fileName);
-
     downloadLink.className = "file-link download-link";
     downloadLink.textContent = download.label;
 
+    downloadLink.addEventListener("click", async (event) => {
+
+        event.preventDefault();
+
+        try {
+            const response = await fetch(download.path);
+
+            if (!response.ok) {
+                throw new Error("File could not be downloaded.");
+            }
+
+            const blob = await response.blob();
+            const fileURL = URL.createObjectURL(blob);
+
+            const temporaryLink = document.createElement("a");
+            temporaryLink.href = fileURL;
+            temporaryLink.download = download.path.split("/").pop();
+
+            document.body.appendChild(temporaryLink);
+            temporaryLink.click();
+            temporaryLink.remove();
+
+            setTimeout(() => URL.revokeObjectURL(fileURL), 1000);
+
+        } catch (error) {
+            console.error("Download error:", error);
+            alert("Unable to download this file. Please try again.");
+        }
+    });
+
     actions.appendChild(downloadLink);
+});
+fileGroup.appendChild(actions);
+filesContainer.appendChild(fileGroup);
+
 });
 
         /* Assemble project card */
